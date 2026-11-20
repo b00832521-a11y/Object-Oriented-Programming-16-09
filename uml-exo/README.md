@@ -1,2 +1,2 @@
-# UML exo
-Exercices UML (slides 42-54).
+\# UML exo
+Exercices UML (slides 68).
